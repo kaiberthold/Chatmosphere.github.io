@@ -1,4 +1,3 @@
-@@ -1,3 +1,6 @@
 # Chatmosphere 
 
 ### Dynamic Conversations in Video Calls
@@ -20,5 +19,4 @@ Wash your hands, wear a mask and mingle in virtual spaces <3
 
 
 ---
-Gefördert vom 
 ![logo bmbf](https://prototypefund.de/wp-content/uploads/2016/07/logo-bmbf.svg)
