@@ -2,6 +2,9 @@
 ---
 
 @import "{{ site.theme }}";
-.project-name {
-  text-align:right;
+.page-header {
+  display: none;
+}
+.main-content {
+padding: 4rem 4rem; 
 }
