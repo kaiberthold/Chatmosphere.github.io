@@ -2,4 +2,6 @@
 ---
 
 @import "{{ jekyll-theme-cayman }}";
-<h1 class="project-name">Chatmosphere</h1>
+.project-name {
+  text-align:right;
+}
