@@ -12,7 +12,7 @@ This project is open source, based on the jitsi API and funded by the [Prototype
 
 
 | Try our Demo  | [See the Code](https://github.com/Chatmosphere) | [Read our Learnings](https://www.notion.so/Chatmosphere-Notebook-76a9a85356574a80859f68fe84a3b1c5) | Follow us on [twitter](https://twitter.com/chatmosphereCC) 
-| --- | ---| ---| ---
+|---|---|---|---|
 
 
 
